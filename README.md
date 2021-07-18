@@ -10,7 +10,7 @@
 - 2019 한국VR/AR산업협회 VR/AR그랜드 챌린지 본선진출작 <Musictopia>
 - 2020 BIFANxUnity 부천국제영화제 우수상 수상작 <Iridiscent>
 - 2020 모바일앱개발 협동조합 인턴 Unity 활용 앱 메인개발
-- and Try anything.. 
+- and Trying to do anything.. 
 ## What I can do
 - Unity using c#
 - Python (sklearn, keras,,) (+ I will do more )
