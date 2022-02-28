@@ -13,7 +13,7 @@
 - and Trying to do anything.. 
 ## What I can do
 - Unity using c#
-- Python (sklearn, keras,,) (+ I will do more )
+- Python (sklearn, keras, tsflow) (+ I will do more )
 - c++/c
 - Java(Android studio)
 - Django
