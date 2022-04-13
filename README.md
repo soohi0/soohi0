@@ -1,5 +1,5 @@
 ### Hi there 👋
-# IT_HYEWON CHOI
+# HYEWON CHOI
 ## _Hello AI_
 
 
