@@ -13,7 +13,7 @@
 - 2022 ACL CONSTRAINT 2022 제 1저자 논문 등재. <How does fake news use a thumbnail? CLIP-based Multimodal Detection on the Unrepresentative News Image>
    - 멀티모달의 시작
 - 2022 Naver boostcamp AI tech 4기
-- 2023 Naver boostcamp AI tech 최종프로젝트 <Text-to-Emoji>
+- 2023 Naver boostcamp AI tech 최종프로젝트 <Text-to-Emoji> [[github link]](https://github.com/boostcampaitech4lv23nlp2/final-project-level2-nlp-11)
 ## What I can do
 - Unity using c#
 - Python (sklearn, keras, tsflow, pytorch, numpy, pandas ) (+ I will do more )
