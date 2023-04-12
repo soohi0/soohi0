@@ -12,7 +12,8 @@
 - 2021 제11회 숭실 캡스톤디자인 경진대회 동상 수상. <전동킥보드 안전 운행을 위한 FmD(Front-multi-Detection) 시스템>
 - 2022 ACL CONSTRAINT 2022 제 1저자 논문 등재. <How does fake news use a thumbnail? CLIP-based Multimodal Detection on the Unrepresentative News Image>
    - 멀티모달의 시작
-- 2022 Naver Boostcamp AI tech 4기
+- 2022 Naver boostcamp AI tech 4기
+- 2023 Naver boostcamp AI tech 최종프로젝트 <Text-to-Emoji>
 ## What I can do
 - Unity using c#
 - Python (sklearn, keras, tsflow, pytorch, numpy, pandas ) (+ I will do more )
