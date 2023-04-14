@@ -14,6 +14,7 @@
    - 멀티모달의 시작
 - 2022 Naver boostcamp AI tech 4기
 - 2023 Naver boostcamp AI tech 최종프로젝트 <Text-to-Emoji> [[github link]](https://github.com/boostcampaitech4lv23nlp2/final-project-level2-nlp-11)
+- [[취업 스터디 study link](https://www.notion.so/4d6cfca37b57497686ae9aaf6691786c)]
 ## What I can do
 - Unity using c#
 - Python (sklearn, keras, tsflow, pytorch, numpy, pandas ) (+ I will do more )
