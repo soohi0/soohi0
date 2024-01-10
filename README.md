@@ -1,7 +1,5 @@
 ### Hi there 👋
 # HYEWON CHOI
-## _Hello AI_
-
 
 ## About me
 
